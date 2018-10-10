@@ -1,0 +1,12 @@
+	Citizen.InvokeNative(GetHashKey("ADD_TEXT_ENTRY"), key, value)
+end
+
+Citizen.CreateThread(function()
+	-- cvpi w/ liberty
+	AddTextEntry('0x54830233', 'lasd')
+	-- 2015 charger
+	AddTextEntry('0x519EF9F7', 'lasd2')
+	-- 2014 explorer
+	AddTextEntry('0x43605D7A', 'lasd3')
+	-- ford expedition
+	AddTextEntry('0xD3487D4C', 'lasd5')

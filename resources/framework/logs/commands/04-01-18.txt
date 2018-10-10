@@ -1,0 +1,4 @@
+//Command logs for 04-01-18
+[03:09]User (Johny) ran admin command dv, with parameters: dv
+[14:04]User (Johny) ran admin command copadd, with parameters: copadd 2 chief of police
+[14:24]User (Johny) ran admin command dv, with parameters: dv

@@ -1,0 +1,2 @@
+//Command logs for 03-29-18
+[12:33]User (Johny) ran admin command tpm, with parameters: tpm

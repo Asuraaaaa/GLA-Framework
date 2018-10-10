@@ -1,0 +1,3 @@
+//Command logs for 03-31-18
+[02:53]User (Johny) ran admin command noclip, with parameters: noclip
+[02:58]User (Johny) ran admin command tpm, with parameters: tpm

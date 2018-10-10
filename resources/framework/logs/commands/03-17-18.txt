@@ -1,0 +1,12 @@
+//Command logs for 03-17-18
+[15:01]User (Serenity) ran admin command coprem, with parameters: coprem 1
+[15:13]User (Serenity) ran admin command spawn, with parameters: spawn adder
+[15:22]User (Serenity) ran admin command tpm, with parameters: tpm
+[15:33]User (Serenity) ran admin command dv, with parameters: dv
+[15:44]User (Serenity) ran admin command dv, with parameters: dv
+[16:10]User (Serenity) ran admin command noclip, with parameters: noclip
+[16:56]User (Serenity) ran admin command tpm, with parameters: tpm
+[17:23]User (Serenity) ran admin command mecrem, with parameters: mecrem 2
+[17:52]User (Serenity) ran admin command coprem, with parameters: coprem 2
+[18:53]User (Johny) ran admin command noclip, with parameters: noclip
+[19:39]User (Johny) ran admin command noclip, with parameters: noclip

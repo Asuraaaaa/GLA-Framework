@@ -1,0 +1,2 @@
+//Command logs for 03-11-18
+[15:02]User (Serenity) ran admin command tpm, with parameters: tpm

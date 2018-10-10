@@ -1,0 +1,3 @@
+//Chat logs for 03-31-18
+[02:53]::Johny: /noclip
+[02:58]::Johny: /admin

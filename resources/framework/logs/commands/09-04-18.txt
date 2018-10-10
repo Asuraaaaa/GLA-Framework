@@ -1,0 +1,2 @@
+//Command logs for 09-04-18
+[16:36]User (HaxersAlwaysWin) ran admin command tpm, with parameters: tpm

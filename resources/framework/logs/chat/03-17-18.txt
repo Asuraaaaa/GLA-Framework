@@ -1,0 +1,12 @@
+//Chat logs for 03-17-18
+[15:06]::Serenity: /dirtycash
+[15:13]::Serenity: /spawn adder
+[15:22]::Serenity: /tpm
+[15:33]::Serenity: /dv
+[15:44]::Serenity: /dv
+[16:10]::Serenity: /noclip
+[16:56]::Serenity: /tpm
+[17:23]::Serenity: /mecrem 2
+[17:52]::Serenity: /saw
+[18:53]::Johny: /noclip
+[19:39]::Johny: /noclip

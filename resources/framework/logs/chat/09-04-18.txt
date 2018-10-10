@@ -1,0 +1,2 @@
+//Chat logs for 09-04-18
+[16:36]::HaxersAlwaysWin: /start showcoords

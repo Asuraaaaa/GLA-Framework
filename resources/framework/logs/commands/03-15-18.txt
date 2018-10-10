@@ -1,0 +1,2 @@
+//Command logs for 03-15-18
+[15:21]User (Serenity) ran admin command noclip, with parameters: noclip

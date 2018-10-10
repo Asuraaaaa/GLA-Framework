@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <link href="loadscreen.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div class="backdrop">
+            <div class="top">
+                <h1 title="GRAND LIFE AUTO">GRAND LIFE AUTO</h1>
+                <h2 title="Serious RP">Serious RP</h2>
+            </div>
+
+            <div class="loader">
+            </div> 
+            <div id="percentage">0%</div>
+
+
+
+
+            <div class="bottom">
+                <div id="gradient">
+                </div>
+            </div>
+        </div>
+    </body>
+
+
+    <script type="text/javascript">
+    var percentageIncrement = 14.2857
+    var totalPercentage = 0;
+    var count = 0;
+    var thisCount = 0;
+    
+    function updatePercentage(percent){
+        document.querySelector('#percentage').innerHTML = parseInt(Math.ceil(totalPercentage + percent)) + "%"
+    }
+
+    const handlers = {
+        startInitFunctionOrder(data)
+        {
+            count = data.count;
+            totalPercentage = totalPercentage + percentageIncrement;
+            updatePercentage(0)
+        },
+        initFunctionInvoking(data)
+        {
+            var ThisPercent = (data.idx / count)
+            updatePercentage(percentageIncrement * (ThisPercent))
+        },
+        startDataFileEntries(data)
+        {
+            count = data.count;
+        },
+        performMapLoadFunction(data)
+        {
+            ++thisCount;
+            var ThisPercent = (thisCount / count)
+            updatePercentage(percentageIncrement * (ThisPercent))
+        }
+    };
+
+
+
+
+    window.addEventListener('message', function(e)
+    {
+        (handlers[e.data.eventName] || function() {})(e.data);
+    });
+    </script>
+
+</html>

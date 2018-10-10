@@ -1,0 +1,3 @@
+//Ban logs for 03-18-18
+03-18-18Display Name | Identifier | License | Duration | Reason | Banned By 
+[13:33]Mrbajamiso | steam:110000106934495 | license:9824188ce65d2f27bb2cb6c423a46680db2f4a99 | Forever | Banned For illegal vehicle usage: rhino | ANTI-CHEESE

@@ -1,0 +1,4 @@
+//Chat logs for 04-01-18
+[03:09]::Johny: /dv
+[14:04]::Johny: /copadd 2 chief of police
+[14:24]::Johny: /dv

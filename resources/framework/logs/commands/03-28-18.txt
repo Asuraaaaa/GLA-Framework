@@ -1,0 +1,2 @@
+//Command logs for 03-28-18
+[04:47]User (Johny) ran admin command spawn, with parameters: spawn adder
