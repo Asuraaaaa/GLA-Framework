@@ -9,3 +9,5 @@ Also note that this framework was made with a server running Windows Server 2016
 
 If you have any other issues, join my Discord at: http://links.haxersalwayswin.net/discord and say you are from the FiveM Forums.
 We have a whole team of experts that are there to help.
+
+Thanks to Benjamin M. for helping fix this release!
